@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter3.bootactuator/bootactuator.iml" filepath="$PROJECT_DIR$/chapter3.bootactuator/bootactuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.bootcustomer/bootcustomer.iml" filepath="$PROJECT_DIR$/chapter3.bootcustomer/bootcustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.boothateoas/boothateoas.iml" filepath="$PROJECT_DIR$/chapter3.boothateoas/boothateoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.bootmessaging/bootmessaging.iml" filepath="$PROJECT_DIR$/chapter3.bootmessaging/bootmessaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.bootrest/bootrest.iml" filepath="$PROJECT_DIR$/chapter3.bootrest/bootrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.bootsecurity/bootsecurity.iml" filepath="$PROJECT_DIR$/chapter3.bootsecurity/bootsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.bootswagger/bootswagger.iml" filepath="$PROJECT_DIR$/chapter3.bootswagger/bootswagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.iml" filepath="$PROJECT_DIR$/chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.bootcustomernotifcation/customernotification.iml" filepath="$PROJECT_DIR$/chapter3.bootcustomernotifcation/customernotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3.webflux/webflux-demo.iml" filepath="$PROJECT_DIR$/chapter3.webflux/webflux-demo.iml" />
+    </modules>
+  </component>
+</project>

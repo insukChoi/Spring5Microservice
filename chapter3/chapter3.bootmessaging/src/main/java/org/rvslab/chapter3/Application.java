@@ -47,7 +47,7 @@ class Sender {
 class Receiver {
     @RabbitListener(queues = "TestQ")
     public void processMessage(String content) {
-       System.out.println(content);
+       System.out.println("CIS = " + content);
     }
 }
 

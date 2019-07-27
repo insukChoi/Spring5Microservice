@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bootactuator" />
+        <module name="bootcustomer" />
+        <module name="boothateoas" />
+        <module name="bootmessaging" />
+        <module name="bootrest" />
+        <module name="bootsecurity" />
+        <module name="bootswagger" />
+        <module name="customernotification" />
+        <module name="webflux-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bootactuator" target="1.8" />
+      <module name="bootcustomer" target="1.8" />
+      <module name="boothateoas" target="1.8" />
+      <module name="bootmessaging" target="1.8" />
+      <module name="bootrest" target="1.8" />
+      <module name="bootsecurity" target="1.8" />
+      <module name="bootswagger" target="1.8" />
+      <module name="chapter3" target="1.5" />
+      <module name="customernotification" target="1.8" />
+      <module name="webflux-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
